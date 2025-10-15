@@ -5,15 +5,20 @@ box-shadow:5px 5px 5px #E52293;}
 
 .green{background-color: #3ECC18;
 border: 2px outset #3ECC18;
-box-shadow:5px 5px 5px #3ECC18;}
+box-shadow:5px 5px 5px #3ECC18;
+font-style: italic;}
 
 .gold{background-color:	#fce132;
 border: 2px outset #96861B;
-box-shadow:5px 5px 5px #96861B;}
+box-shadow:5px 5px 5px #96861B;
+font-style: italic;
+}
 
 .cyan{background-color: #22A1AB;
 border: 2px outset #22A1AB ;
-box-shadow:5px 5px 5px #22A1AB ;}
+box-shadow:5px 5px 5px #22A1AB ;
+font-style: italic;
+}
 h1{
     text-align: center;
     font-family:  sans-serif;
