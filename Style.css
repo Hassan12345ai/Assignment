@@ -1,11 +1,26 @@
 .mixpink{background-color:#E52293;
-border: 2px outset #f96995;}
+border: 2px outset #f96995;
+font-style: italic;
+box-shadow:5px 5px 5px #E52293;}
 
 .green{background-color: #3ECC18;
-border: 2px outset #3ECC18;}
+border: 2px outset #3ECC18;
+box-shadow:5px 5px 5px #3ECC18;}
 
-.gold{background-color:	#96861B;
-border: 2px outset #96861B;}
+.gold{background-color:	#fce132;
+border: 2px outset #96861B;
+box-shadow:5px 5px 5px #96861B;}
 
 .cyan{background-color: #22A1AB;
-border: 2px outset #22A1AB ;}
+border: 2px outset #22A1AB ;
+box-shadow:5px 5px 5px #22A1AB ;}
+h1{
+    text-align: center;
+    font-family:  sans-serif;
+    font-weight: 1000;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
